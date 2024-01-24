@@ -12,7 +12,16 @@ GERMANY
 
 NOTICE: All information, data, text, software, graphics, images, and other content in this software are the proprietary property of #amazing Internetagentur and Jeremias Janowski, the creator and copyright holder of the Krown - Blockchain software. Unauthorized use, modification, reproduction, distribution, or storage of any content is expressly prohibited without the prior written permission of Amazing Internetagentur and Jeremias Janowski.
 
-2. Limited Usage Rights for Krown.org
+2. Acknowledgement of Open-Source Components
+
+a. The Krown-Blockchain software is based in part on the Substrate blockchain framework, which is an open-source project. Link to Github Repo: https://github.com/paritytech/substrate
+b. The original code of Substrate is licensed under the Apache License, Version 2.0, and the GNU General Public License v3.0. Copies of these licenses are available at:
+Apache License 2.0: https://github.com/paritytech/substrate?tab=Apache-2.0-1-ov-file
+GNU General Public License v3.0: https://github.com/paritytech/substrate?tab=GPL-3.0-2-ov-file
+c. While modifications and proprietary extensions made by #amazing Internetagentur to the Substrate codebase are subject to this proprietary license agreement, it is acknowledged that the original and unmodified portions of the Substrate framework remain under their respective open-source licenses.
+d. Users of the Krown-Blockchain software are responsible for ensuring their use of the software is in compliance with both the terms of this agreement and the applicable open-source licenses.
+
+3. Limited Usage Rights for Krown.org
 
 Krown.org is hereby granted permission to use the Krown-Blockchain software, with the condition that slight modifications are allowed to meet the startup requirements of the company Krown.org. This permission includes adjusting the startup configuration, upgrading the software, and adding Substrate Pallets that can extend the functionality of the software. Krown.org is permitted to make such modifications provided that:
 
@@ -21,14 +30,14 @@ All modifications must be in line with the original objectives and standards of 
 The fundamental structure of the software must not be significantly altered, and all changes must be compatible with the original architecture and security protocols of the software.
 Krown.org does not have the right to duplicate, sell, or otherwise commercially use the modified software without the express consent of #amazing. #amazing remains the original developer of the software and assumes no responsibility for the operation, maintenance, or provision of services related to the modified versions of the software. All rights to the original Krown-Blockchain software and its derivatives remain with #amazing.
 
-3. No Warranty
+4. No Warranty
 
 NO WARRANTY: This software is provided "as-is" without any warranty of any kind, expressed or implied, including but not limited to, the implied warranties of merchantability, fitness for a particular purpose, or non-infringement.
 
-4. Limitation of Liability
+5. Limitation of Liability
 
 IN NO EVENT SHALL #AMAZING INTERNETAGENTUR OR JEREMIAS JANOWSKI BE LIABLE FOR ANY DAMAGES (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF DATA OR PROFIT, OR DUE TO BUSINESS INTERRUPTION) ARISING OUT OF THE USE OR INABILITY TO USE THIS SOFTWARE, EVEN IF AMAZING INTERNETAGENTUR OR JEREMIAS JANOWSKI HAS BEEN NOTIFIED OF THE POSSIBILITY OF SUCH DAMAGES.
 
-5. Acceptance of Terms
+6. Acceptance of Terms
 
 Any use of this software constitutes acceptance of these terms.
